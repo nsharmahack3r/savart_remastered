@@ -2,5 +2,5 @@ class BasePaths{
 
   const BasePaths._();
 
-  static const assets = 'assets/';
+  static const assets = 'assets';
 }
